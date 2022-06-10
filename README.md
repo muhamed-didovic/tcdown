@@ -20,6 +20,7 @@ Usage
     $ tcdown [CourseUrl]
 
 Options
+    --all, -a           Get all courses from particular school or provider.
     --email, -e         Your email.
     --password, -p      Your password.
     --directory, -d     Directory to save.
@@ -28,6 +29,7 @@ Options
 
 Examples
     $ tcdown
+    $ tcdown -a
     $ tcdown [url] [-e user@gmail.com] [-p password] [-d dirname] [-c number] [-f path-to-file]
 ```
 
