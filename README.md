@@ -21,6 +21,7 @@ Usage
 
 Options
     --all, -a           Get all courses from particular school or provider.
+    --login, -l         Your login url with login form.
     --email, -e         Your email.
     --password, -p      Your password.
     --directory, -d     Directory to save.
@@ -30,7 +31,7 @@ Options
 Examples
     $ tcdown
     $ tcdown -a
-    $ tcdown [url] [-e user@gmail.com] [-p password] [-d dirname] [-c number] [-f path-to-file]
+    $ tcdown [url] [-l url...] [-e user@gmail.com] [-p password] [-d dirname] [-c number] [-f path-to-file]
 ```
 
 ## License
