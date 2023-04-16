@@ -1,6 +1,7 @@
 # Downloader and scraper for teachable.com for pro members
 
 [![npm](https://badgen.net/npm/v/tcdown)](https://www.npmjs.com/package/tcdown)
+[![Downloads](https://img.shields.io/npm/dm/tcdown.svg?style=flat)](https://www.npmjs.org/package/tcdown)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmuhamed-didovic%2Ftcdown&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![license](https://flat.badgen.net/github/license/muhamed-didovic/tcdown)](https://github.com/muhamed-didovic/tcdown/blob/master/LICENSE)
 
