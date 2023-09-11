@@ -27,12 +27,14 @@ Options
     --password, -p      Your password.
     --directory, -d     Directory to save.
     --file, -f          Location of the file where are the courses
+    --html, -t          Enable html download (values: 'yes' or 'no'), default value is 'yes'
+    --screenshot, -s    Enable screenshot (values: 'yes' or 'no'), default value is 'yes'
     --concurrency, -c
 
 Examples
     $ tcdown
     $ tcdown -a
-    $ tcdown [url] [-l url...] [-e user@gmail.com] [-p password] [-d dirname] [-c number] [-f path-to-file]
+    $ tcdown [url] [-l url...] [-e user@gmail.com] [-p password] [-d dirname] [-t yes/no] [-s yes/no] [-c number] [-f path-to-file]
 ```
 
 ## License
