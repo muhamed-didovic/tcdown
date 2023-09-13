@@ -1,6 +1,6 @@
 {
   "name": "tcdown",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "Downloader and scraper for teachable.com for members",
   "main": "index.js",
   "directories": {
