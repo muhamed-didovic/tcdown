@@ -1,6 +1,6 @@
 {
   "name": "tcdown",
-  "version": "0.5.5",
+  "version": "0.5.6",
   "description": "Downloader and scraper for teachable.com for members",
   "main": "index.js",
   "directories": {
@@ -33,7 +33,7 @@
     "@byungi/p-delay": "^0.2.0",
     "@byungi/p-retry": "^0.2.2",
     "@supercharge/promise-pool": "^2.4.0",
-    "axios": "^1.5.0",
+    "axios": "^1.5.1",
     "bluebird": "^3.7.2",
     "chalk": "^5.3.0",
     "cheerio": "^1.0.0-rc.12",
@@ -54,8 +54,8 @@
     "ora": "^5.4.1",
     "p-limit": "^3.1.0",
     "prompts": "^2.4.2",
-    "puppeteer": "^21.2.1",
-    "puppeteer-core": "^21.2.1",
+    "puppeteer": "^21.3.8",
+    "puppeteer-core": "^21.3.8",
     "puppeteer-extra": "^3.3.6",
     "puppeteer-extra-plugin-adblocker": "^2.13.6",
     "puppeteer-extra-plugin-anonymize-ua": "^2.4.6",
